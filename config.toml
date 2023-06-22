@@ -3,7 +3,7 @@ CanonifyURLs=true
 languageCode = "en-US"
 defaultContentLanguage = "en"
 
-title = "Rocket Journey: Solutions Architect – Associate"
+title = "AWS Partner"
 theme = "learn"
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= true
@@ -46,7 +46,7 @@ home = [ "HTML", "RSS", "JSON"]
 
 [Languages]
 [Languages.en]
-title = "Rocket Journey: Solutions Architect – Associate"
+title = "AWS Partner"
 weight = 1
 languageName = "English"
 
